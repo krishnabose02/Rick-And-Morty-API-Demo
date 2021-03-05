@@ -12,7 +12,7 @@ This project brings together 3 things that you love.
 2. TypeScript
 3. And of course Rick and Morty.
 
-Data is fetched from [The Rick and Morty API](www.rickandmortyapi.com), its really nice, check it out once.
+Data is fetched from [The Rick and Morty API](https://www.rickandmortyapi.com), its really nice, check it out once.
 You can use both graphQL and REST API for querying its data, but since I'm a noob-noob in GraphQL, I'll just stick to their REST API version.
 
 This project plans to demo the basics of React native written with typescript and tries to address the pain points that new learners are facing (according to what people ask me).
